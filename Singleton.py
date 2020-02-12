@@ -7,7 +7,8 @@ def Singleton(amorAGatito,yaHayAmor):
             else:
                 #Si todavia no amas a gatito pues te enamoras y entonces ya hay amor
                 print("Enamorandote...")
-                yaHayAmor = True
+                yaHayAmor = False
+                print("Alv, como terminamos no puede ser True :c ")
 
 #Clase principal
 def main():
